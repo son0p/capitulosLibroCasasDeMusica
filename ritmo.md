@@ -1,3 +1,5 @@
+#Acpects 
+here are some basic thems worth studing 
 # Ritmo
 #Meter (music)
 Meter or metre is a term that music has inherited from the rhythmic element of poetry (Scholes 1977; Latham 2002b) where it means the number of lines in a verse, the number of syllables in each line and the arrangement of those syllables as long or short, accented or unaccented (Scholes 1977; Latham 2002b). Hence it may also refer to the pattern of lines and accents in the verse of a hymn or ballad, for example, and so to the organization of music into regularly recurring measures or bars of stressed and unstressed "beats", indicated in Western music notation by a time signature and bar-lines.
